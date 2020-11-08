@@ -1,0 +1,16 @@
+#site-logo {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	font-size: 2.2em;
+	line-height: 1em;
+	letter-spacing: .02em;
+	display: inline-block;
+}
+#site-logo a,
+#site-logo a:hover {
+	text-decoration: none;
+}
